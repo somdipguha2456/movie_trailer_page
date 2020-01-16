@@ -13,5 +13,5 @@
  
  ## Licence
  
- This project is under _MIT Licence_ - see more details in ['LICENCE'](https://github.com/somdipguha2456/movie_trailer_page/blob/master/LICENCE)
+ This project is under _MIT Licence_ - see more details in ['LICENSE'](https://github.com/somdipguha2456/movie_trailer_page/blob/master/LICENSE)
  
